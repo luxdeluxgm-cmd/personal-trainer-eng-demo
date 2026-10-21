@@ -1,4 +1,4 @@
-# flower-shop-pl-demo
+# personal-trainer-eng-demo
 
 A custom-coded, single-page website mockup for a fictional personal trainer. Built as a demonstration piece for my web development portfolio with a strict, editorial-style design.
 
